@@ -1,0 +1,2 @@
+# bitmap
+SPOJ BitMap
