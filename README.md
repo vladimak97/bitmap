@@ -1,2 +1,2 @@
-# bitmap
+# Bitmap
 SPOJ BitMap
